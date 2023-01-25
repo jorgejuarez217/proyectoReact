@@ -1,6 +1,6 @@
 const Footer = () => {
 return (
-<div> Footer </div>
+<div id="footer"> &copy; Jorge Juarez  2023 </div>
 )
 }
 
